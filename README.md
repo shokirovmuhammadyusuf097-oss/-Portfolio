@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animatsiyali orqa fon banneri -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7c3aed,100:00d4ff&height=200&section=header&text=Hello%20World!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I%20am%20a%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:7c3aed,100:00d4ff&height=200&section=header&text=Salom%20Mening ismim Muhammadyusuf!%20👋&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=I%20am%20a%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 
 <!-- Yozuv animatsiyasi (Typing SVG) -->
 <a href="https://git.io/typing-svg">
@@ -24,8 +24,8 @@
 
 ```javascript
 const developer = {
-  name:        "Ism Familiya",
-  location:    "📍 Toshkent, O'zbekiston",
+  name:        "Shokirov Muhammadyusuf",
+  location:    "📍 Andijon, O'zbekiston",
   role:        "Full Stack Developer",
   languages:   ["JavaScript", "Python", "TypeScript"],
   hobbies:     ["Coding 💻", "Gaming 🎮", "Hiking 🏔️"],
